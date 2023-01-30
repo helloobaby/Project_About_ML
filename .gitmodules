@@ -1,0 +1,3 @@
+[submodule "my_yara_rule"]
+	path = my_yara_rule
+	url = https://github.com/helloobaby/my_yara_rule.git
