@@ -5,3 +5,5 @@ vcpkg install numcpp
 vcpkg install magic-enum
 
 vcpkg install pe-parse
+
+vcpkg install yara
